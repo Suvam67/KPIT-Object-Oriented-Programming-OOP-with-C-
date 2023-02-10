@@ -11,21 +11,27 @@ Step 5: Submit the written code in Edu Online
 
 
 ## Step 1: View assignments
+
  Before proceeding, please ensure that the required tools (MinGW, Python,CxxTest, VSCode) are installed in your local machine. If it’s done proceedwith step 2.
 
  Student can go through course materials and then attempt the Assignments.
 
  Every assignment under assigned test will have two sections:
+
  Problem Statement– Provides the details about the coding assignment.
+
  CPP-NOVA-Assignment-xx – It Contains coding assignment in Zip format.
 
 
 ## Step 2: Download Assignment in the local machine
+
  Right-click on the specific assignment and click download. The assignment will be downloaded (ZIP format) to your Local machine.
+
  Extract the Downloaded file. The Extracted folder contains three files:
+
  bitmap.h : is the header file consists of prototype declarations of defined functions and necessary variables declaration.
 
-###Steps to be executed
+### Steps to be executed: 
 Step 1: View assignments
 Step 2: Download project in the local machine
 Step 3: Opening project in VSCode on local machine / desktop
@@ -33,6 +39,7 @@ Step 4: Test and validate the written code in Local machine
 Step 5: Submit the written code in Edu Online
 
  bitmap.cpp: is the source file consists of function definitions with empty body. Participant is expected to write code for the specified functions in bitmap.cpp file.
+
  test.h : consists of test cases that Participant use to validate and test the written code inside empty functions. The test cases and test data are already given in this file that Participant can directly use to test the written code.
 
 
