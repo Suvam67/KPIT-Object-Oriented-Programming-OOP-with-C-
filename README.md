@@ -45,7 +45,9 @@ Step 5: Submit the written code in Edu Online
 
 ##  NOTE:
  Participant need not to write main () function, cout and cin in bitmap.cpp file.
+
  Please do not delete or edit the file name/ folder name.
+
  Participants allowed to edit only in bitmap.cpp file
 
 
