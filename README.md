@@ -3,11 +3,18 @@ Solutions Of KPIT Nova Assignments -> Object Oriented Programming (OOP) with C++
 
 
 ## Steps to be executed
+
 Step 1: View assignments
+
 Step 2: Download project in the local machine
+
 Step 3: Opening project in VSCode on local machine / desktop
+
 Step 4: Test and validate the written code in Local machine
+
 Step 5: Submit the written code in Edu Online
+
+
 
 
 ## Step 1: View assignments
